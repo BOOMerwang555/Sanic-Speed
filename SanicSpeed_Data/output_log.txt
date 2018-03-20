@@ -1,0 +1,57 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.182 seconds
+Platform assembly: H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Andy\Unity Projects\Sanic Speed\SanicSpeed_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.127471 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.362997 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 1.019655 ms (FindLiveObjects: 0.010219 ms CreateObjectMapping: 0.009453 ms MarkObjects: 0.079967 ms  DeleteObjects: 0.920014 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.458602 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 2.623357 ms (FindLiveObjects: 0.021461 ms CreateObjectMapping: 0.023504 ms MarkObjects: 0.200814 ms  DeleteObjects: 2.377066 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.355129 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.263919 ms (FindLiveObjects: 0.010986 ms CreateObjectMapping: 0.009453 ms MarkObjects: 0.086099 ms  DeleteObjects: 0.157381 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362027 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 1.398800 ms (FindLiveObjects: 0.015329 ms CreateObjectMapping: 0.009964 ms MarkObjects: 0.121868 ms  DeleteObjects: 1.251127 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.281293 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.275927 ms (FindLiveObjects: 0.011241 ms CreateObjectMapping: 0.009197 ms MarkObjects: 0.099640 ms  DeleteObjects: 0.155592 ms)
+
